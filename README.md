@@ -51,24 +51,24 @@ $ ./mvnw clean spring-boot:run
 
 Listar planetas
 
-![Image description](link-to-image)
+![Image description](https://github.com/rafaeljdesa/sw-api/blob/master/src/main/resources/img/listar.JPG)
 
 Buscar por ID
 
-![Image description](link-to-image)
+![Image description](https://github.com/rafaeljdesa/sw-api/blob/master/src/main/resources/img/buscarId.JPG)
 
 Buscar por Nome
 
-![Image description](link-to-image)
+![Image description](https://github.com/rafaeljdesa/sw-api/blob/master/src/main/resources/img/buscarNome.JPG)
 
 Adicionar planeta
 
-![Image description](link-to-image)
+![Image description](https://github.com/rafaeljdesa/sw-api/blob/master/src/main/resources/img/adicionar.JPG)
 
 Alterar planeta
 
-![Image description](link-to-image)
+![Image description](https://github.com/rafaeljdesa/sw-api/blob/master/src/main/resources/img/alterar.JPG)
 
 Remover planeta
 
-![Image description](link-to-image)
+![Image description](https://github.com/rafaeljdesa/sw-api/blob/master/src/main/resources/img/remover.JPG)
